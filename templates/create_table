@@ -1,0 +1,6 @@
+CREATE TABLE ${if_not_exists} ${trg} ${cluster_expression}
+(
+$fields 
+)
+${engine}
+${comment}

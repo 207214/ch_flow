@@ -1,0 +1,1 @@
+TRUNCATE TABLE ${src} ${cluster_expression} NO DELAY
